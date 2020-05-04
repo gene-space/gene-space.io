@@ -1,0 +1,28 @@
+﻿Flag,Genotype,Numeric,Binary,R,Y,W,Color
+3,rryyww,0 - 0 - 2,00 - 00 - 11,0,0,11,Blue
+7,rrYyww,0 - 1 - 2,00 - 01 - 11,0,1,11,Blue
+13,Rryyww,1 - 0 - 2,01 - 00 - 11,1,0,11,Blue (island)
+14,RrYyWW,1/1/00,1/1/00,1,1,0,Orange
+15,RrYyWw,1/1/01,1/1/01,1,1,1,Orange
+17,RrYyww,1/1/02,1/1/11,1,1,11,Orange
+3c,RRYYWW,2/2/00,11/11/00,11,11,0,Orange
+3d,RRYYWw,2/2/01,11/11/01,11,11,1,Orange (island)
+33,RRyyww,2 - 0 - 2,11 - 00 - 11,11,0,11,Purple
+37,RRYyww,2/1/02,11/1/11,11,1,11,Purple
+3f,RRYYww,2/2/02,11/11/11,11,11,11,Purple
+10,RryyWW,1 - 0 - 0,01 - 00 - 00,1,0,0,Red
+11,RryyWw,1 - 0 - 1,01 - 00 - 01,1,0,1,Red
+31,RRyyWw,2 - 0 - 1,11 - 00 - 01,11,0,1,Red
+34,RRYyWW,2/1/00,11/1/00,11,1,0,Red
+35,RRYyWw,2/1/01,11/1/01,11,1,1,Red
+30,RRyyWW,2 - 0 - 0,11 - 00 - 00,11,0,0,Red (seed)
+0,rryyWW,0 - 0 - 0,00 - 00 - 00,0,0,0,White
+1,rryyWw,0 - 0 - 1,00 - 00 - 01,0,0,1,White (seed)
+4,rrYyWW,0 - 1 - 0,00 - 01 - 00,0,1,0,Yellow
+5,rrYyWw,0 - 1 - 1,00 - 01 - 01,0,1,1,Yellow
+0d,rrYYWw,0 - 2 - 1,00 - 11 - 01,0,11,1,Yellow
+0f,rrYYww,0 - 2 - 2,00 - 11 - 11,0,11,11,Yellow
+1c,RrYYWW,1/2/00,1/11/00,1,11,0,Yellow
+1d,RrYYWw,1/2/01,1/11/01,1,11,1,Yellow
+1f,RrYYww,1/2/02,1/11/11,1,11,11,Yellow
+0c,rrYYWW,0 - 2 - 0,00 - 11 - 00,0,11,0,Yellow (seed)
